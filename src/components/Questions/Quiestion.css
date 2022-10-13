@@ -1,0 +1,25 @@
+.stayle-quiz{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+
+
+}
+.stayle-quiz input{
+    font-size: 200px;
+}
+.Header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.tapaling{
+    border: 1px solid grey;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+
+}
+.true{
+   display: none; 
+}
